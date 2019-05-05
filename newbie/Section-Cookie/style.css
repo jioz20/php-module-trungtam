@@ -1,0 +1,21 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.row
+{
+	border: 2px solid #F51418;
+	margin: 70px auto;
+	width: 800px;
+	padding: 25px;
+	text-align: center;
+}
+.row h1
+{
+	margin-bottom: 25px;
+	color: blue;
+}
+#main-form input[type-submit]
+{
+	padding: 4px 6px;
+}

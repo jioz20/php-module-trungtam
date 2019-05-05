@@ -1,0 +1,39 @@
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.content
+{
+	width: 350px;
+	height: 130px;
+	margin: 20px auto;
+	background: #CCDDA5;
+	border-radius: 20px;	
+	text-align: center;
+}
+.content div.row
+{	
+	margin-top: 5px;
+}
+.content div.row span
+{
+	display: inline-block;
+	width: 100px;
+	text-align: left;
+}
+.content .ban h2
+{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	height: auto;
+	text-align: center;
+	color: red;
+	background: #C8AE43;
+	border-radius: 5px;	
+}
+.content form span
+{
+	color: aliceblue;
+	margin-bottom: 5px;
+}

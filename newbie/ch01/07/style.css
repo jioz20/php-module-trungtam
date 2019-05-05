@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/* Chỉnh màu chữ*/
+.content
+{
+	margin: 60px auto; /*Vị trí của viền*/
+	width: 600px; /*Kích cỡ viền*/
+	border: 2px solid #FF3000;	/*Chỉnh viền*/
+	padding: 10px;
+	background: url("image/01.png") no-repeat;
+	min-height: 200px;
+}
+/*Chỉnh thẻ H1*/
+.content h1
+{
+	text-align: center;
+	color: red;
+	font-style: italic;
+	margin-bottom: -10px;	
+}
+.content u1
+{
+	text-align: center;
+}
+.content u1 h1
+{
+	margin-top: 5px;
+	list-style: decimal inside;
+}

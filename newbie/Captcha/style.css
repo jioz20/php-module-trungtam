@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/* Chỉnh màu chữ*/
+.content
+{
+	margin: 60px auto; /*Vị trí của viền*/
+	width: 600px; /*Kích cỡ viền*/
+	border: 2px solid #FF3000;	/*Chỉnh viền*/
+
+	padding: 10px;
+	color: blue;
+}
+/*Chỉnh thẻ H1*/
+.content div.row
+{
+	margin-top: 18px; /*Kích cỡ nội dung*/
+}
+
+.content div.row input[type = text]
+{
+	padding: 4px 6px; /*Độ rộng của ô - Độ rộng của nội dung trong ô*/
+	margin: 10px auto;
+}
+.content div.row input[type = submit]
+{
+	font-weight: bold;
+	color: brown;
+	padding: 4px 6px;
+	display: block;
+	margin: 10px auto 15px auto;	
+}
+.content div.result img
+{
+	width: 120px ;
+	height: 120px ;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 28px;
+	margin-bottom: -10px;
+	overflow: hidden;
+}

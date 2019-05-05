@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danhsach>
+	<loaisanpham>
+		<ten>Trang sức</ten>
+		<ma>SP1</ma>
+		<trangthai>Còn hàng</trangthai>
+	</loaisanpham>
+		<loaisanpham>
+		<ten>Kính thời trang</ten>
+		<ma>SP2</ma>
+		<trangthai>Còn hàng</trangthai>
+	</loaisanpham>
+		<loaisanpham>
+		<ten>Nước hoa</ten>
+		<ma>SP3</ma>
+		<trangthai>Còn hàng</trangthai>
+	</loaisanpham>
+		<loaisanpham>
+		<ten>Làm đẹp</ten>
+		<ma>SP4</ma>
+		<trangthai>Hết hàng</trangthai>
+	</loaisanpham>
+		<loaisanpham>
+		<ten>Áo sơ mi</ten>
+		<ma>SP5</ma>
+		<trangthai>Còn hàng</trangthai>
+	</loaisanpham>
+	<loaisanpham>
+		<ten>Kính râm</ten>
+		<ma>SP6</ma>
+		<trangthai>Còn hàng</trangthai>
+	</loaisanpham>
+	<loaisanpham>
+		<ten>Đồ bơi</ten>
+		<ma>SP6</ma>
+		<trangthai>Còn hàng</trangthai>
+	</loaisanpham>
+</danhsach>

@@ -1,0 +1,44 @@
+@CHARSET "UTF-8";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/* Chỉnh màu chữ*/
+.content
+{
+	margin: 60px auto; /*Vị trí của viền*/
+	width: 640px; /*Kích cỡ viền*/
+	border: 2px solid #FF3000;	/*Chỉnh viền*/
+	padding: 20px;
+}
+/*Chỉnh thẻ H1*/
+.content h1
+{
+	text-align: center;
+	color: red;
+	font-style: italic;
+}
+.content div.image
+{
+	margin: 20px 0px;
+	text-align: center;
+}
+/*Khoảng cách giữa các hình ảnh
+mặc đinh: margin: margin-top -left.right
+*/
+.content div.image img
+{
+	margin: 5px 0px; 
+}
+/*padding: top.bottom - left.right*/
+.content div.image a
+{
+	display:block;
+	padding: 4px 6px;
+	text-decoration: none;
+	color: black;
+}
+.content div.image a:hover
+{
+	color: blue;
+}

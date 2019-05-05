@@ -1,0 +1,64 @@
+@CHARSET "UTF-8";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/* Chỉnh màu chữ*/
+.content
+{
+	margin: 60px auto; /*Vị trí của viền*/
+	width: 600px; /*Kích cỡ viền*/
+	border: 2px solid #FF3000;	/*Chỉnh viền*/
+	padding: 10px;	
+}
+/*Chỉnh thẻ H1*/
+.content h1
+{
+	text-align: center;
+	color: red;
+	font-style: italic;
+	margin-bottom: -10px;	
+}
+.content ul
+{
+	margin: 25px;
+}
+.content ul li
+{
+	display: inline-block;
+	list-style: none;
+	margin-left: 35px;
+}
+.content ul li a
+{
+	display: block;
+	width: 135px;
+	height: 135px;
+}
+.content
+{
+	text-align: center;
+}
+.content div.row
+{
+	margin-top: 18px; /*Kích cỡ nội dung*/
+}
+.content div.row span
+{
+	padding: 5px;
+	display: inline-block;
+	width: 230px;
+	text-align: right;
+}
+.content div.row input[type = text]
+{
+	padding: 4px 6px; /*Độ rộng của ô - Độ rộng của nội dung trong ô*/
+}
+.content div.row input[type = submit]
+{
+	font-weight: bold;
+	color: brown;
+	padding: 4px 6px;
+	display: block;
+	margin: 10px auto 15px auto;	
+}

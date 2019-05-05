@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danhsach>	
+	<nguoidung>
+		<ma>22</ma>
+		<ten>Nguyễn Minh Trí</ten>
+		<tendangnhap>admin</tendangnhap>
+		<ngaysinh>1998-10-20</ngaysinh>
+		<matkhau>e10adc3949ba59abbe56e057f20f883e</matkhau>
+		<gioitinh>Nam</gioitinh>
+		<trangthai>1</trangthai>
+		<iplogin>192.168.1.2</iplogin>
+		<avatar>file_15301607730.jpg</avatar>
+	</nguoidung>
+</danhsach>

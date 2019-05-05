@@ -1,0 +1,44 @@
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.content {
+    width: 374px;
+    height: 115px;
+    margin: 10px auto;
+    background: #CC66FF;
+    border-radius: 5px;
+    text-align: center;
+}
+.content div.row
+{	
+	margin: 5px;
+	text-align: left;
+}
+.content div.row span {
+    display: inline-block;
+    width: 170px;
+    margin-right: 0px;
+}
+.content h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    height: 24px;
+    text-align: center;
+    color: white;
+    background: #CC33CC;
+    border-radius: 5px 5px 0 0;
+}
+.content form span
+{
+	color: aliceblue;
+	margin-bottom: 8px;
+}
+.content button{
+	color: red;
+	margin-top: 2px;
+}
+.content div{
+	margin-top: 60px;
+}

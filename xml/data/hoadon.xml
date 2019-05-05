@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danhsach>
+	<hoadon>
+		<ma>1</ma>
+		<sohoadon>22710</sohoadon>
+		<ngaylap>1223-03-12</ngaylap>
+		<mathanhvien>TV1</mathanhvien>
+	</hoadon>
+	
+	<hoadon>
+		<ma>2</ma>
+		<sohoadon>22713</sohoadon>
+		<ngaylap>2017-12-20</ngaylap>
+		<mathanhvien>TV2</mathanhvien>
+	</hoadon>
+	
+	<hoadon>
+		<ma>3</ma>
+		<sohoadon>22714</sohoadon>
+		<ngaylap>2017-10-20</ngaylap>
+		<mathanhvien>TV3</mathanhvien>
+	</hoadon>	
+<hoadon><ma>10000</ma><sohoadon>12</sohoadon><ngaylap>2012-08-31</ngaylap><mathanhvien>TV4</mathanhvien></hoadon></danhsach>

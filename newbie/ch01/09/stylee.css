@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div.content
+{
+	width: 800px;
+	height: 300px;
+	border: 2px solid #99FF33;
+	margin: 20px auto;
+	pading: 20px;	
+}
+div.content div
+{
+	border: 1px solid #FF0000;
+	padding: 30px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+div.content div p
+{
+	font-weight: bold;
+}
+div.content div p span
+{
+	font-style: italic;
+	font-weight: normal;
+}
